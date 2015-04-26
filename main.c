@@ -1,6 +1,7 @@
 #include "stdio.h"
 int main()
 {
-  printf("hi how are you ");
+  printf("hi how are you \n ");
+  printf("its for tag v.2 \n");
   return;
 }
